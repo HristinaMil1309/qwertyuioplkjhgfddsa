@@ -11,6 +11,10 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="451,201,0,0" VerticalAlignment="Top" Width="75"/>
         <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="165,250,0,0" VerticalAlignment="Top"/>
         <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="369,265,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="369,265,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="369,265,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="181,343,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="537,296,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
